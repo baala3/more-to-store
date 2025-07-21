@@ -86,6 +86,9 @@ The project uses the following major dependencies:
 - Glide (4.11.0)
 - Volley (1.1.1)
 
+## Admin panel
+https://github.com/baala3/More-to-store-admin-panel
+
 ### Demo
 
 https://appetize.io/app/q1edkvrn3p9r3g13x8h0qx5904?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
